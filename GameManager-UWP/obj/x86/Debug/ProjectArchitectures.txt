@@ -1,0 +1,2 @@
+C:\Users\SEXTON\Documents\GitHub\GameManager-UWP\GameFilerManager\GameFileManager.csproj;x86
+C:\Users\SEXTON\Documents\GitHub\GameManager-UWP\GameManager-UWP\GameManager-UWP.csproj;x86
